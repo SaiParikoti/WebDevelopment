@@ -1,2 +1,2 @@
 # WebDevelopment
-This is basic html program
+Examples of html prgrams
